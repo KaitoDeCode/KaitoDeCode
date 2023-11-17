@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Adi Kurniawan</h1>
-<h3 align="center">A passionate amatir frontend developer from Indonesia</h3>
+<h3 align="center">A passionate Junior web dev from Indonesia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kaitodecode&label=Profile%20views&color=0e75b6&style=flat" alt="kaitodecode" /> </p>
 
