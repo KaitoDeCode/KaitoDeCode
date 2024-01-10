@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kaitodecode" alt="kaitodecode" /></a> </p>
 
-- 🔭 I’m currently working on [MovieFlixx](https://github.com/Yassaaji/movie)
+- 🔭 I’m currently working on [Hummatask]([https://github.com/Yassaaji/movie](https://github.com/Yapidev/Hummatask))
 
-- 🌱 I’m currently learning **Laravel,Next JS**
+- 🌱 I’m currently learning **Laravel,Next JS,Flutter**
 
-- 👯 I’m looking to collaborate on [MovieFlixx](https://github.com/Yassaaji/movie)
+- 👯 I’m looking to collaborate on [Hummatask]([https://github.com/Yassaaji/movie](https://github.com/Yapidev/Hummatask))
 
 - 👨‍💻 All of my projects are available at [kaitodecode.vercel.app/](kaitodecode.vercel.app/)
 
