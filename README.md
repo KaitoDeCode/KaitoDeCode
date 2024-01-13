@@ -1,16 +1,16 @@
 <h1 align="center">Hi 👋, I'm Adi Kurniawan</h1>
-<h3 align="center">A passionate Junior web dev from Indonesia</h3>
+<h3 align="center">A passionate Web Developer from Indonesia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kaitodecode&label=Profile%20views&color=0e75b6&style=flat" alt="kaitodecode" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kaitodecode" alt="kaitodecode" /></a> </p>
 
-- 🔭 I’m currently working on [Menped ( Management Pendidikan Skansa )](https://github.com/KaitoDeCode/management-pendidikan)
+- 🔭 I’m currently working on [**Menped ( Management Pendidikan Skansa )**](https://github.com/KaitoDeCode/management-pendidikan)
 - 🌱 I’m currently learning **Laravel,Next JS,Flutter**
 
-- 👯 I’m looking to collaborate on [Hummatask]([https://github.com/Yassaaji/movie](https://github.com/Yapidev/Hummatask))
+- 👯 I’m looking to collaborate on [Hummatask](https://github.com/Yapidev/Hummatask)
 
-- 👨‍💻 All of my projects are available at [kaitodecode.vercel.app/](kaitodecode.vercel.app/)
+- 👨‍💻 All of my projects are available at [**kaitodecode.vercel.app/**](https://kaitodecode.vercel.app/)
 
 - 💬 Ask me about **react,php**
 
