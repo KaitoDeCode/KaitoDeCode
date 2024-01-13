@@ -8,7 +8,7 @@
 - 🔭 I’m currently working on [**Menped ( Management Pendidikan Skansa )**](https://github.com/KaitoDeCode/management-pendidikan)
 - 🌱 I’m currently learning **Laravel,Next JS,Flutter**
 
-- 👯 I’m looking to collaborate on [Hummatask](https://github.com/Yapidev/Hummatask)
+- 👯 I’m looking to collaborate on [**Hummatask**](https://github.com/Yapidev/Hummatask)
 
 - 👨‍💻 All of my projects are available at [**kaitodecode.vercel.app/**](https://kaitodecode.vercel.app/)
 
