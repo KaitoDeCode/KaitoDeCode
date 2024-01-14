@@ -6,13 +6,13 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kaitodecode" alt="kaitodecode" /></a> </p>
 
 - 🔭 I’m currently working on [**Menped ( Management Pendidikan Skansa )**](https://github.com/KaitoDeCode/management-pendidikan)
-- 🌱 I’m currently learning **Laravel,Next JS,Flutter**
+- 🌱 I’m currently learning **Laravel,Next JS,Flutter,Inertia**
 
 - 👯 I’m looking to collaborate on [**Hummatask**](https://github.com/Yapidev/Hummatask)
 
 - 👨‍💻 All of my projects are available at [**kaitodecode.vercel.app/**](https://kaitodecode.vercel.app/)
 
-- 💬 Ask me about **react,php**
+- 💬 Ask me about **react,php,javascript,java**
 
 - 📫 How to reach me **kurniawanadi4556@gmail.com**
 
