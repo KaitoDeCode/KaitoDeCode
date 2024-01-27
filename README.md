@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **react,php,javascript,java**
 
-- 📫 How to reach me **kurniawanadi4556@gmail.com**
+- 📫 How to reach me **kaitodecode@gmail.com**
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ikyadi_) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@ikyadi_) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@KaitoDeCode) 
