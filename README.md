@@ -1,7 +1,7 @@
 # 💫 About Me:
 
 - 🔭 I’m currently working on [**Si Majar ( Si Management Pembelajaran ), Admin SMKN 1 MEJAYAN**](https://github.com/KaitoDeCode/management-pendidikan)
-- 🌱 I’m currently learning **Laravel,Next JS,Flutter,Inertia,Python,Angular JS,Nuxt Js and Adonis Js**
+- 🌱 I’m currently learning **Laravel,Next JS,Flutter,Inertia,Python,Nuxt Js and Adonis Js**
 
 - 👯 I’m looking to collaborate on [**Hummatask**](https://github.com/Yapidev/Hummatask)
 
